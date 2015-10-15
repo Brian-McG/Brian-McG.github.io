@@ -22,6 +22,7 @@
 
 .name2{
   color: #ffffff;
+  font-size: 0px;
 }
 
 .name{
@@ -69,13 +70,12 @@ footer{
 }
 #contact{
     background: #fff;
-    padding-bottom: 30px;
+    padding-bottom:45px;
 }
 
 #contact li>ul>li{
     padding: 5px 0;
 }
-
 
 .copy{
     background: #2A232F;
